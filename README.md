@@ -28,3 +28,4 @@ Once the demo app is installed, you can run the demo from the root directory. yo
 
 ```
 
+The server runs on port 8000 by default.
